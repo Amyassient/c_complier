@@ -1,0 +1,80 @@
+0	NUM
+main	ID
+int	KW_INT
+)	RPAREN
+3	NUM
+a	ID
+int	KW_INT
+{	LBRACE
+0	NUM
+i	ID
+int	KW_INT
++	ADD
+	
+i	ID
+for	KW_FOR
+{	LBRACE
+	
+i	ID
+return	KW_RETURN
+)	RPAREN
+	
+i	ID
+	
+;	SEMICON
+	
+printf	ID
+	
+}	RBRACE
+	
+Hello_world	ID
+	
+	
+	
+d	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
